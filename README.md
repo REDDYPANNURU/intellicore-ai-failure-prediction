@@ -4,3 +4,6 @@ IntelliCore uses AI and machine learning on real-time sensor data and historical
 ##Team Members
 #Rajashekar Reddy Pannuru(rp1432@srmist.edu.in)
 #Vishnu vardhan(vb7645@srmist.edu.in)
+
+##References
+#https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/using-ai-in-predictive-maintenance.html
